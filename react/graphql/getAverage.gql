@@ -1,0 +1,6 @@
+query GetAverage($product: String) {
+    rating(product: $product) {
+        count
+        rate
+    }
+}

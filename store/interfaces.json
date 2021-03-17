@@ -1,0 +1,8 @@
+{
+  "netreviews-rating": {
+    "component": "Rating"
+  },
+  "netreviews-reviews": {
+    "component": "Reviews"
+  }
+}
