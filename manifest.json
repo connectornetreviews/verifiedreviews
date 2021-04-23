@@ -1,7 +1,7 @@
 {
   "vendor": "verifiedreviews",
   "name": "netreviews",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "title": "Netreviews Module",
   "description": "Netreviews VTEX module",
   "defaultLocale": "en-US",
