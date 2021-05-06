@@ -1,4 +1,4 @@
-import React, {FunctionComponent, useEffect, useState} from "react";
+import React, {FunctionComponent, useState} from "react";
 import {SideInfoProps} from "../typings/global";
 import styles from "../styles.css";
 import {FaInfoCircle, FaUserAlt} from "react-icons/fa";
@@ -20,6 +20,10 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
     const {product} = useProduct() ?? {};
     const {productId} = product ?? {};
 
+    if (!productId) {
+        return null;
+    }
+
     const total = getRecommandation(stats).total;
     const recommandation = getRecommandation(stats).percentageRecommandation;
 
@@ -35,12 +39,6 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
             background: 'linear-gradient(to right, rgb(173, 173, 173) ' + percentage + '%, rgb(216, 216, 216) ' + percentage + '%)'
         };
     };
-
-    useEffect(() => {
-        if (!productId) {
-            return;
-        }
-    });
 
     function compareIndex(index: number, selectedFilter: number[]) {
         return selectedFilter.length && index + 1 === selectedFilter[0] ? {opacity: 1} : {opacity: 0.3};

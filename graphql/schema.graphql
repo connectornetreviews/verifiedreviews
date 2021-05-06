@@ -1,6 +1,6 @@
 type Query {
     rating(product: String): [NetreviewsRating]
-    reviews(product: String, idWebsite: String, plateforme: String, offset: Int, limit: Int, filter: [Int], order: String) : [NetreviewsReviews]
+    reviews(product: String, idWebsite: String, platform: String, offset: Int, limit: Int, filter: [Int], order: String) : [NetreviewsReviews]
 }
 
 type NetreviewsRating {

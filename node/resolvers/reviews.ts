@@ -2,9 +2,12 @@ export const queries = {
     rating: async (_: any, args: any, ctx: Context, _infos: any) => {
         const {clients: {netreviews}} = ctx;
         const {product} = args;
+
         try {
             const data = await netreviews.getRating(ctx, product);
-            return data[Object.keys(data)[0]];
+            const [firstDataKey] = Object.keys(data);
+
+            return data[firstDataKey];
         } catch (error) {
             throw new TypeError(error);
         }

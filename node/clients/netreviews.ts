@@ -3,7 +3,7 @@ import {Rating} from "../typings/rating";
 import {Reviews} from "../typings/review";
 
 
-interface reviewArgs {
+interface ReviewArgs {
     product: string,
     offset: number,
     limit: number,
@@ -25,13 +25,14 @@ class Netreviews extends ExternalClient {
         super('https://awsapis3.netreviews.eu', context, options);
     }
 
+
     public async getAccountInfo(ctx: Context) {
         const {clients} = ctx;
         const appId = process.env.VTEX_APP_ID;
         const settings = await clients.apps.getAppSettings(appId);
         const {idWebsite, locale} = settings;
 
-        if (this.idWebsite === '') {
+        if (this.idWebsite == '') {
             this.idWebsite = idWebsite.trim();
             this.plateforme = locale.split('-')[1].toLowerCase();
         }
@@ -49,7 +50,7 @@ class Netreviews extends ExternalClient {
         )
     }
 
-    public async getReviews(ctx: Context, {product, offset, limit, filter, order}: reviewArgs): Promise<Reviews> {
+    public async getReviews(ctx: Context, {product, offset, limit, filter, order}: ReviewArgs): Promise<Reviews> {
         await this.getAccountInfo(ctx);
 
         return this.http.post('/product', {

@@ -1,5 +1,5 @@
 query GetReviews($product: String, $idWebsite: String, $plateforme: String, $offset: Int, $limit: Int, $filter: [Int], $order: String) {
-    reviews(product: $product, idWebsite: $idWebsite, plateforme: $plateforme, offset: $offset, limit: $limit, filter: $filter, order: $order)  {
+    reviews(product: $product, idWebsite: $idWebsite, platform: $plateforme, offset: $offset, limit: $limit, filter: $filter, order: $order)  {
         reviews {
             rate
             email

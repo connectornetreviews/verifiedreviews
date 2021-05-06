@@ -22,6 +22,9 @@ const Reviews: FunctionComponent = () => {
     const {product} = useProduct() ?? {};
     const {productId} = product ?? {};
 
+    if (!productId) {
+        return null;
+    }
 
     let variables = {
         product: productId,
@@ -34,12 +37,6 @@ const Reviews: FunctionComponent = () => {
     const {data, loading, error} = useQuery(GetReviews, {
         ssr: false,
         variables: variables
-    });
-
-    useEffect(() => {
-        if (!productId) {
-            return;
-        }
     });
 
     useEffect(() => {

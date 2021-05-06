@@ -1,4 +1,4 @@
-import React, {FunctionComponent, useEffect} from 'react'
+import React, {FunctionComponent} from 'react'
 import {useQuery} from 'react-apollo';
 import GetAverage from './graphql/getAverage.gql';
 import styles from "./styles.css";
@@ -11,6 +11,10 @@ const Rating: FunctionComponent = () => {
     const {product} = useProduct() ?? {};
     const {productId} = product ?? {};
 
+    if (!productId) {
+        return null;
+    }
+
     const {data, loading, error} = useQuery(GetAverage, {
         ssr: false,
         variables: {
@@ -18,13 +22,7 @@ const Rating: FunctionComponent = () => {
         }
     });
 
-    useEffect(() => {
-        if (!productId) {
-            return;
-        }
-    });
-
-    const executeScroll = (element: HTMLElement | null): any => {
+    const executeScroll = (element: HTMLElement | null): void => {
         if (element) {
             element.scrollIntoView({behavior: 'smooth', block: 'start'});
         }
