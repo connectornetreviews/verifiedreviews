@@ -1,195 +1,771 @@
-### Términos y Condiciones de Uso de la VTEX App Store
+# Condiciones generales de uso
 
-##### Actualizado el 09/09/2020.
+## I: Alcance de las Condiciones generales de uso
 
-Estos Términos de Uso de la VTEX App Store regulan el uso del servicio de suscripciones y distribución de aplicaciones desarrolladas en VTEX IO, ofrecido por COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE SA con sede en la ciudad de São Paulo, Estado de São Paulo, en Avenida Faria Lima, 4440, piso 10, Itaim Bibi, CEP 04538-132, registrado en CNPJ/MF con el n. 05.314.972/0001-74, en adelante denominada “VTEX”, a sus clientes (“Clientes VTEX”), y su uso está sujeto a la plena aceptación de los términos y condiciones de uso que se transcriben a continuación, así como el respectivo _Master Services Agreement_  (“MSA”) firmado entre VTEX y el cliente VTEX.
+La empresa NET REVIEWS, titular del nombre de dominio [http://www.opiniones-](http://www.opiniones-)
+verificadas.com se preocupa por los problemas relacionados con el respeto y la
+protección de la vida privada en Internet.
 
-Para acceder, utilizar o instalar cualquier APP puesta a disposición en la VTEX App Store, el Usuario (según se define a continuación) declara expresamente que, de su libre y espontánea voluntad, ha leído, conoce y acepta todas las disposiciones presentes en estos Términos.
+NET REVIEWS actúa como tercero de confianza para por una parte, recoger y difundir
+las Opiniones de clientes identificados relacionados con una experiencia de consumo,
+y por otra parte, garantizar la conformidad del contenido recogido con el derecho
+francés para publicar, rechazar o eliminar este contenido (función de Moderación). De
+este modo, NET REVIEWS se encarga de preservar la fiabilidad de las Opiniones y
+evaluaciones publicadas.
 
-El Usuario declara conocer los Términos de Uso de la APP a la que desea acceder, utilizar o instalar. VTEX no es responsable de las aplicaciones de Terceros.
+En este contexto y de conformidad con la legislación vigente, deseamos informar a los
+Consumidores e Internautas sobre las condiciones relativas al uso de nuestros
+servicios y de nuestra Página web.
 
-Si el Usuario es menor de edad o se declara incapaz de alguna manera, necesitará el permiso de los tutores legales, quienes también deberán aceptar estos Términos.
+## II: Plan de las condiciones generales de uso
 
-Sin perjuicio de las disposiciones de estos Términos, el Usuario debe observar todos los demás contratos, términos y condiciones que regulen su relación con VTEX, incluido, entre otros, el _Master Services Agreement_ (como se define a continuación) disponible en [https://vtex.com/us-en/agreements/](https://vtex.com/us-en/agreements/) y los Términos de uso de la APP a la que desea acceder, usar o instalar.
+1: Definiciones
 
-### 1. DEFINICIONES GENERALES
+2: Aviso legal
 
-1.1. En estos Términos, a menos que se indique expresamente o debido al contexto: (a) la referencia al singular incluye una referencia al plural y viceversa y la referencia al género masculino incluye una referencia al género femenino y viceversa; (b) la referencia a una disposición de la ley también es una referencia a dicha disposición enmendada o consolidada; (c) se considerará que los términos “incluyendo”, “incluyen” e “incluye” van seguidos de la frase “sin limitación” o “pero no limitado a”; y (d) los encabezados y títulos de las disposiciones de estos Términos son solo para fines de referencia y no afectan su interpretación.
+3: Objeto de las Condiciones generales de uso
 
-1.2. Las siguientes palabras y expresiones, cuando se utilicen en estos Términos, tendrán los siguientes significados:
+4: Aceptación de las Condiciones generales de uso
 
-“APP”: significa una aplicación web desarrollada por VTEX o terceros y puesta a disposición en la [tienda de aplicaciones de VTEX](apps.vtex.com) para que sus Clientes la instalen, sin cargo, o mediante el pago de una suscripción mensual o pago por uso, como se presenta en la instalación de la APP o en los Términos de Uso de la APP, como herramienta de extensión de la Plataforma VTEX.
+5: Funcionamiento de la emisión de una Opinión
 
-“VTEX App Store” significa un repositorio en línea de aplicaciones web desarrolladas por VTEX o terceros, al que se accede a través del enlace ([apps.vtex.com](http://apps.vtex.com)).
+1: Condiciones relativas a la emisión de una Opinión
 
-“Datos Personales”: significa cualquier dato del Usuario relacionado con una persona física identificada o identificable en la medida en que esa información esté protegida como datos personales bajo los términos de las Leyes de Protección de Datos.
+2: Proceso de Moderación
 
-“Leyes de Protección de Datos”: significa todas las leyes y regulaciones, incluidas las regulaciones vinculantes en Brasil, los Estados Unidos de América, de la Unión Europea, del Espacio Económico Europeo y sus estados miembros, de Suiza y del Reino Unido, aplicables al procesamiento de Datos Personales en el ámbito de estos Términos.
+3: Publicación y restitución de Opiniones
 
-“_Master Services Agreement_” significa el Contrato firmado entre el Cliente, representado por el Usuario, y VTEX.
+6: Funcionamiento de la emisión de una Pregunta o una Respuesta
 
-“Procesamiento”: significa cualquier operación o conjunto de operaciones que involucren Datos Personales, de manera automática o no, tales como recolección, registro, organización, estructuración, almacenamiento, adaptación o alteración, recuperación, consulta, uso, divulgación, transmisión y difusión.
+7: Tratamiento de los Datos personales
 
-“Plataforma VTEX”: significa el software de solución en línea para comercio electrónico de propiedad de VTEX para empresas que promueven y venden productos o servicios en línea.
+8: Propiedad intelectual
 
-“Servicios” significa los servicios proporcionados por las APPs para agregar nuevas funciones a la Plataforma VTEX;
+9: Ley aplicable y tribunal competente
 
-“Términos”: significa los Términos y Condiciones de Uso de la VTEX App Store que regulan la relación entre VTEX y el Usuario.
 
-“Términos de uso de la APP”: significa los Términos y Condiciones de Uso de la aplicación elegida por el Usuario. Los Términos de Uso de la APP deben estar disponibles por parte del Proveedor de la Aplicación. Estos Términos rigen la relación entre el Proveedor de la Aplicación y el Usuario. VTEX no es responsable de las aplicaciones de Terceros.
+## III: Contenido de las Condiciones generales de uso
 
-“Usuario”: significa un Cliente VTEX que es signatario del _Master Services Agreement_ que navegará por la VTEX App Store, autorizado por el Cliente, en su nombre, o como representante de una entidad legal, que realizará la instalación de aplicaciones, registro de informaciones tales cómo, pero sin limitación, el logotipo de la tienda, descripción, país, segmento, tipo de tienda, comisión, cuenta, nombre, correo electrónico y teléfono para compartir con otros usuarios de las APPs.
+### 1: Definiciones
 
-“Desarrollador” es la figura de la empresa o individuo responsable de la creación de la APP, la cual puede ser creada por VTEX o un tercero, que posee los derechos del software vendido y distribuido en la VTEX App Store.
+En el cuerpo de las presentes Condiciones generales de uso, todos los términos que
+se mencionan a continuación deben entenderse en el sentido dado por su definición.
 
-“VTEX IO” es la plataforma de desarrollo propia de VTEX, sobre la cual es posible crear nuevas aplicaciones por VTEX o terceros.
+❖ Certificado de Opiniones-Verificadas: Página web indexada por Google y/u otros
+motores de búsqueda, propia de cada Cliente, donde se muestra el conjunto de
+Opiniones de cliente relacionadas con él. Esta página es accesible haciendo clic en el
+Widget o en la dirección URL de la página web referenciada por el Motor de búsqueda.
 
-“Proveedor de la Aplicación” es el tercero responsable de todo el desarrollo, las actualizaciones y los servicios de la aplicación que se puso a disposición en la VTEX App Store. Es el único responsable del código desarrollado por la APP.
+❖ Opiniones-Verificadas: S.A.S NET REVIEWS, inscrita en el registro mercantil de
+Marsella con el número 750 882 375, con un capital social de 594 740 euros, con sede
+social situada en SAS NET REVIEWS 18-20 Avenue Robert Schuman CS 40494
+13002 Marseille; titular del nombre de dominio [http://www.opiniones-verificadas.com](http://www.opiniones-verificadas.com) y
+proveedor de la solución informática de recopilación de Opiniones de clientes.
 
-“Aplicación de Terceros” significa una aplicación web desarrollada por un tercero, ya sea natural o legal, y disponible en la [VTEX App Store](apps.vtex.com) por un Proveedor de Aplicaciones. La Aplicación de Terceros se pone a disposición de sus Clientes para que la instalen, sin cargo, o mediante el pago de una suscripción mensual o pago por uso, como se presenta en la instalación de la APP o en los Términos de Uso de la APP, como una herramienta de extensión de la Plataforma VTEX.
+❖ Opinión de cliente: Designación general que comprende las "Opiniones sobre los
+productos" y las "Opiniones sobre la marca".
 
-“Aplicación VTEX” significa una aplicación web desarrollada por VTEX y puesta a disposición de sus Clientes en la [VTEX App Store](apps.vtex.com) para ser instalada, sin cargo, o mediante el pago de una suscripción mensual o pago por uso, como se presenta en la instalación de la APP. o en los Términos de uso de la APP, como una herramienta de extensión de la Plataforma VTEX.
+❖ Opiniones sobre los productos: Nota, evaluación o comentario emitido por un
+Consumidor sobre la calidad del Producto comprado a un Cliente.
 
-### 2. OBJETIVO
+❖ Opiniones sobre la marca: Nota, evaluación o comentario emitido por un
+Consumidor sobre la calidad global de su experiencia.
 
-2.1. Estos Términos están destinados a regular el uso de la VTEX App Store por parte del Usuario.
+❖ Back Office: Interfaz web reservada a los Clientes para acceder a las diversas
+funcionalidades desarrolladas por Opiniones Verificadas para la implementación de
+su Solución (principalmente la recepción de las opiniones de los Consumidores,
+respuesta a sus opiniones, acceso a estadísticas, Widgets...). El Cliente debe
+conectarse a su cuenta personal denominada «Espacio cliente», creada al registrarse,
+mediante un identificador (URL de su página web) y una contraseña que habrá
+elegido.
 
-2.2. La plataforma VTEX proporciona la [tienda de aplicaciones VTEX](apps.vtex.com) en la que hay varias aplicaciones que los Usuarios pueden instalar y acceder. El Usuario que pretenda instalar y acceder a cualquier APP deberá disponer de una cuenta VTEX debidamente registrada, al poner a disposición sus Datos Personales y/o datos de las personas jurídicas que el Usuario represente para efectos de registro.
+❖ Base de datos de Consumidores: Conjunto de los Datos de carácter personal e
+informaciones relativas a los Consumidores, transmitidas por el Cliente a Opiniones
+Verificadas en el marco del uso de la Solución.
 
-2.3 El Usuario declara, bajo las penas de la ley, conocer la contratación de los Servicios, así como que toda la información que registre en la APP es veraz, siendo total y exclusivamente responsable de toda y cualquier información que facilite, así como de todas las contrataciones de APP que realice en la Plataforma VTEX a su nombre, o en nombre de cualquier empresa que represente. VTEX no será responsable de ningún daño causado por un Usuario no autorizado.
+❖ Campaña de Adwords: Sistema publicitario del Motor de Búsqueda Google, que
+muestra anuncios o banners de publicidad enfocados a palabras clave que ha escrito
+el internauta o basados en su comportamiento de navegación Esta página es
+accesible haciendo clic en el Widget o en la dirección URL de la página web
+referenciada por el Motor de búsqueda.
 
-2.4. El Usuario reconoce además que estos Términos deben observarse y cumplirse fielmente bajo pena de cancelación y bloqueo del uso de la VTEX App Store y APPs y otras medidas aplicables, independientemente de aviso previo. VTEX se reserva el derecho de tomar las medidas aquí establecidas incluso en casos de sospecha o amenaza de incumplimiento de los Términos.
 
-2.5. El Usuario tiene prohibido eliminar, ocultar o modificar cualquier información, noticias, avisos, logotipos, marcas o cualquier material protegido por la legislación vigente que se muestre en cualquier APP.
+❖ Cliente o Comerciante asociado: persona física o jurídica que recurre a los
+servicios de Opiniones-Verificadas para obtener las opiniones de sus clientes como
+resultado de la compra de un producto, de una experiencia como usuario o de
+cualquier otra acción que pueda dar lugar a una petición de Opinión del cliente.
 
-### 3. PROTECCIÓN DE DATOS PERSONALES
+❖ Pedido o Compra: Pedido, Compra o uso de un Producto efectuado por un
+Consumidor en la tienda de un Cliente o en su página web en Internet.
 
-**El Usuario declara que ha leído las Condiciones de Uso de la APP a la que desea acceder, utilizar o instalar y se ha asegurado de que el desarrollador y Proveedor de la Aplicación de la APP elegida por el Usuario sigue las normas de Protección de Datos Personales. VTEX no es responsable de las aplicaciones de Terceros.**
+❖ CGU o Condiciones generales de uso: Condiciones aplicables a todas las
+personas que se conectan a la página web de Opiniones Verificadas y/o utilizan los
+servicios de Opiniones Verificadas
 
-3.1. VTEX llevará a cabo el Tratamiento de los Datos Personales disponibles en la VTEX App Store de acuerdo con las Leyes de Protección de Datos aplicables. Se considera que todos los empleados y empleados de VTEX con acceso a Datos personales están obligados por escrito a mantener la confidencialidad de dichos Datos Personales.
+❖ CGP o Condiciones generales de prestación de servicios: Condiciones
+aplicables a cualquier persona que se suscriba a una oferta de Opiniones Verificadas.
 
-3.2. El Usuario declara que ha leído, conoce y acepta las disposiciones de la Política de Privacidad de VTEX, la cual es parte integral de estos Términos, tal como se dispone en su totalidad en el siguiente enlace: [https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy](https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy).
+❖ Consumidor: Persona física que actúa con fines ajenos a su actividad comercial,
+industrial, artesanal o independiente.
 
-3.3. El Usuario acepta que las rutinas de acceso a la APP pueden ser registradas y monitoreadas por el equipo de desarrollo de VTEX y que toda la información y los datos proporcionados pueden usarse solo con el propósito de proporcionar mejoras de rendimiento, ajustes y correcciones de funcionalidad y mejora del sistema en su conjunto. Esta información no se compartirá ni se pondrá a disposición de ninguna persona o empresa que no sea parte del grupo VTEX, como, entre otros, socios, proveedores de servicios, agencias, consultores u otros Usuarios.
+❖ Datos de carácter personal: Toda información relativa a una persona física
+susceptible de ser identificada, directa o indirectamente, especialmente mediante un
+identificador, como un nombre, un número de identificación, datos de ubicación, un
+identificador en línea, o bien uno o varios elementos específicos propios de su
+identidad física, psicológica, genética, psíquica, económica, cultural o social
 
-3.4. El Usuario acepta que, en su caso, la APP será considerada un Operador de Datos, aportando únicamente la infraestructura. En ningún caso la APP puesta a disposición por VTEX será considerada Controlador de Datos Personales a los efectos de la Ley de Protección de Datos Personales. Se aplican las disposiciones de la MSA.
+❖ Formulario: Página de Internet a la que puede acceder un Consumidor haciendo
+clic en el hipervínculo que se le envía por correo electrónico o SMS después de cada
+Pedido o Compra, y que el Consumidor puede cumplimentar con el fin de dejar una
+Opinión de cliente.
 
-### 4. SERVICIO
+❖ Fórmula: Oferta de tarifas propuesta por Opiniones-Verificadas y aceptada por el
+Comerciante asociado.
 
-4.1. El Usuario declara conocer las Condiciones de Uso de la APP a la que desea acceder, utilizar o instalar. VTEX no es responsable de las Aplicaciones de Terceros.
+❖ Internet: Conjunto de redes informáticas y de telecomunicaciones interconectadas,
+de dimensión global, que permite el acceso de los Consumidores a contenidos
+mediante servidores.
 
-4.2. Para utilizar los Servicios disponibles en cualquier APP, el Usuario debe asegurarse de disponer de software compatible (última versión recomendada y/o necesaria) y acceso a Internet, ya que el funcionamiento de la APP y/o el rendimiento de los Servicios puede verse afectado por tales factores.
+❖ Internauta: Persona que utiliza la red de Internet para acceder a diferentes
+contenidos puestos a disposición pública.
 
-4.3. El Usuario entiende y acepta que VTEX no ofrecerá ninguna garantía en relación con el funcionamiento de los Servicios de cualquier APP disponible en la VTEX App Store y la disponibilidad continua por parte de VTEX.
+❖ Moderación: Filtrado, análisis o proceso realizado automáticamente o por medios
+humanos con el fin de aceptar o rechazar una Opinión de cliente.
 
-4.4. Las APPs podrán ponerse a disposición de sus Usuarios de forma gratuita en la VTEX App Store, o podrán cobrar por los Servicios en cualquier momento, a su sola discreción, mediante planes de suscripción o modelos comerciales que serán presentados al Usuario al contratar Servicios que ofrece la APP. Si los precios y condiciones cambian en el plan contratado, el Usuario será notificado con antelación.
+❖ Motor de búsqueda: Página web que permite encontrar recursos asociados a
+cualquier palabra en la red de Internet.
 
-4.4.1. Las APP pueden sufrir cambios, en cualquier momento, en el valor de los planes y cargos sin respetar un índice específico, bajo previa notificación a los Usuarios afectados por el cambio con al menos 30 (treinta) días de antelación.
 
-4.5. VTEX no es responsable de las cuestiones relacionadas con las suscripciones a servicios de terceros que puedan ser necesarios para usar cualquier APP.
+❖ Producto: Producto o servicio vendido u ofrecido gratuitamente por un Cliente al
+Consumidor en su Página de Internet o en su tienda física.
 
-### 5. SUSCRICIONES
+❖ Página: Página de Internet desde donde la empresa NET REVIEWS ofrece su
+Solución y a la que se accede desde el siguiente nombre de dominio: [http://www.opiniones-](http://www.opiniones-)
+verificadas.com.
 
-5.1. El Usuario acepta y acepta que algunas APPs pueden permitir al Usuario adquirir acceso al contenido o a Servicios mediante suscripción (“Suscripciones de Pago”). Las Suscripciones de Pago se renuevan automáticamente hasta que se desinstale la APP.
+❖ Solución: Servicios y Solución informática que permiten generar, administrar y
+verificar la fiabilidad de las Opiniones de los clientes, así como hacerlas visibles.
 
-5.1.1. El Proveedor de la Aplicación tiene derecho a cancelar la Suscripción de Pago del Usuario si el método de pago falla en caso de renovación de la suscripción. Algunas Suscripciones de Pago pueden ofrecer una prueba gratuita antes de que se las carguen. Si el Usuario decide cancelar la Suscripción de Pago antes del inicio del cargo, el Usuario debe desinstalar la APP al menos 24 horas antes de que finalice el período de evaluación otorgado.
+❖ Widgets: Ilustraciones creadas por Opiniones-Verificadas que muestran la nota
+media de las Opiniones sobre una Marca o de las Opiniones sobre un Producto.
 
-### 6. OBLIGACIONES DEL USUARIO
+### 2: Aviso legal
 
-6.1. El Usuario, al utilizar cualquier APP, declara expresa e inequívocamente que está de acuerdo con estos Términos y los Términos de Uso de la APP, y se compromete a:
+La Página web [http://www.opiniones-verificadas.com](http://www.opiniones-verificadas.com) es editada por S.A.S NET REVIEWS,
+sociedad anónima por acciones simplificada, con un capital social de 594 740 euros,
+inscrita en el registro mercantil de Marsella con el número 750 882 375, con sede
+social situada en SAS NET REVIEWS 18-20 Avenue Robert Schuman CS 40494
+13002 Marseille y con número de identificación individual a efectos del IVA FR 35
+750882375.
 
-a.  No infringir ninguna disposición de estos Términos;
+Las actividades de la empresa NET REVIEWS han sido objeto de dos declaraciones
+CNIL en Francia (Comisión Nacional de la Informática y de las Libertades) número
+1581495 y número 1581528.
 
-b.  Proporcionar datos de registro verdaderos y de acuerdo con la legislación local;
+El director de la publicación de la Página web [http://www.opiniones-verificadas.com](http://www.opiniones-verificadas.com) es Tom
+BRAMI.
 
-c.  No poner a disposición información falsa (es decir, divulgación intencional y voluntaria de información que sepa que es falsa o que es notoriamente falsa) y/o practicar falsedad ideológica;
+Cualquier persona puede ponerse en contacto con la empresa S.A.S NET REVIEWS
+llamando a los siguientes números en Francia: 04.13.25.81.70 o +334.13.25.81.70.
 
-d.  No realizar ningún acto contrario a la buena fe y a los usos y costumbres de las comunidades virtuales y que pueda vulnerar algún derecho de terceros;
+Asimismo, está disponible una dirección de correo electrónico para ponerse en
+contacto con la empresa: info@opiniones-verificadas.com.
 
-e.  No cometer fraude;
+### 3: Objeto de las Condiciones generales de uso
 
-f.  No violar o infringir los derechos de terceros, especialmente los derechos de propiedad intelectual, derechos contractuales y derechos de intimidad y privacidad;
+La finalidad de las presentes Condiciones generales de uso (CGU) es definir las
+condiciones bajo las que NET REVIEWS recoge Opiniones de clientes, así como las
+condiciones de tratamiento de los Datos de carácter personal de todo Internauta que
+se conecta a la Página web [http://www.opiniones-verificadas.com.](http://www.opiniones-verificadas.com.)
 
-g.  No propagar, distribuir o transmitir códigos destructivos, hayan causado o no daños reales;
+Dicha recopilación de Datos y la utilización que de ellos se haga se hacen en el marco
+de la legislación vigente y especialmente en las leyes n.° 2004-575 del 21 de junio de
+2004, para la confianza en la economía digital y n.° 78-17 del 6 de enero de 1978
+relativa a la informática, los archivos y las libertades, en su versión modificada por la
+ley n.° 2018-493 del 20 de junio de 2018 y el Reglamento (UE) 2016/679 del
 
-h.  No recopilar Datos Personales o comerciales, incluidos, entre otros, direcciones de correo electrónico y/o nombres de cualquier recurso de Internet, con fines comerciales, políticos, benéficos o de otro tipo, sin el consentimiento de los propietarios de dichos datos u otra base legal o fundamento que autorice la recolección;
 
-i.  No reproducir, replicar, copiar, alterar, monitorear, modificar, crear trabajos derivados, vender o revender cualquier APP y/o Servicio o parte de ellos, que no sean de dominio público;
+Parlamento Europeo y del consejo del 27 de abril de 2016, denominado Reglamento
+General de Protección de Datos (RGPD).
 
-j.  No realizar ni fomentar actividades ilícitas, incluyendo, pero no limitado a, promover o facilitar el acceso, uso o venta de sustancias o dispositivos peligrosos;
+### 4: Aceptación de las Condiciones generales de uso
 
-k.  Cumplir con todas las leyes, reglas, reglas, principios y regulaciones aplicables;
+Se informa a toda persona que el acceso a la Página web [http://www.opiniones-](http://www.opiniones-)
+verificadas.com, su consulta y utilización están subordinadas a la aceptación plena de
+estas Condiciones generales de uso.
 
-l.  Utilice la APP solo para el propósito expresamente previsto en estos Términos.
+Al acceder, el Internauta manifiesta esta aceptación plena y completa, sin reservas ni
+modificación de ningún tipo.
 
-### 7. DISPONIBILIDAD DE LA APP
+Del mismo modo, se informa al Internauta que al emitir una Opinión de cliente,
+reconoce tener conocimiento de estas Condiciones generales y las acepta sin
+reservas e íntegramente.
 
-7.1. El Usuario reconoce que en la VTEX App Store estarán disponibles APPs desarrolladas por VTEX (“Aplicación VTEX”) y APPs desarrolladas por terceros (“Aplicación de Terceros”).
+### 5: Funcionamiento de la emisión de una Opinión
 
-7.2. VTEX actúa como un agente para los Proveedores de Aplicaciones en la provisión de la VTEX App Store y no es parte del contrato de venta o acuerdo de usuario entre el Usuario y el Proveedor de Aplicaciones.
+5.1: Condiciones relativas a la emisión de una Opinión
 
-7.3. Cualquier Aplicación que el Usuario instale se rige por los Términos de Uso de la APP. El Proveedor de la Aplicación de cualquier Aplicación de Terceros es el único responsable de su contenido, garantías y reclamos que el Usuario pueda tener relacionados con la Aplicación de Terceros.
+La solución Opiniones Verificadas se basa en la recopilación de una Opinión después
+de un Pedido. Las solicitudes de Opiniones están vinculadas a una experiencia de
+consumo y se envían a un Consumidor claramente identificado. Se recuerda que
+Opiniones Verificadas actúa en calidad de tercero de confianza.
 
-### 8. LIMITACIÓN DE RESPONSABILIDAD DE VTEX
+Cada Opinión dada debe referirse necesariamente a una experiencia de consumo
+vivida por el autor de dicha Opinión, y deberá ser posible contactar con él. Igualmente,
+los Consumidores que dejen una Opinión deberán respetar necesariamente las
+condiciones siguientes:
 
-8.1. Sin perjuicio de lo dispuesto en el _Master Services Agreement_, VTEX queda expresamente exonerada de cualquier responsabilidad por las pérdidas sufridas por el Usuario, o por terceros que, de cualquier forma, se originen o estén relacionadas con el uso de cualquier APP y Servicios ahí puestos a su disposición, incluyendo, de manera no exhaustiva, daños directos, indirectos, morales, punitivos, daños emergentes, lucro cesante, pérdida de oportunidad y pérdida de datos, independientemente de cualquier aviso.
+- Ser una persona física.
+- No estar en situación de conflicto de intereses.
+- Haber vivido personalmente la experiencia de consumo del Producto o
+  servicio sobre el que expresa su Opinión.
 
-8.2. A modo de ejemplo, VTEX no será responsable de:
+El Consumidor garantiza la sinceridad y la autenticidad de su Opinión. No está
+permitido emitir declaraciones inadecuadas o incluso contrarias a la ley y a las buenas
+costumbres.
 
-8.2.1. Errores y/o interrupciones en el uso de la APP y sus Servicios, así como el correcto funcionamiento de sus módulos e integraciones.
+Se podrá volver a contactar con el Consumidor para realizar verificaciones. Opiniones-
+Verificadas dispone de elementos que permiten identificar al Consumidor y atestiguar
+su acto de consumo. La identificación se puede realizar por correo electrónico,
+teléfono o cualquier otro medio que permita ponerse en contacto directo con el
+Consumidor.
 
-8.2.2. Asegurarse de que la APP o la Plataforma VTEX funcionará libre de pérdidas, errores, defectos, ataques, virus, _trojans_, _malwares_, _worm_, _bot_, _backdoors_, _spywares_, _rootkit_, interferencias, actividades de piratería o violaciones de seguridad, y el Usuario renuncia expresamente cualquier derecho que pueda tener al respecto.
+A tal fin, el Consumidor garantiza la exactitud y la autenticidad de los Datos personales
+que comunica.
 
-8.2.3. Situaciones de “caso fortuito” o “fuerza mayor”, contempladas en el artículo 393 del Código Civil Brasileño.
 
-8.2.4. Violaciones de datos e información resultantes de (i) actos de empleados, agentes o personas autorizadas por el Usuario para operar la APP o la Plataforma VTEX, o (ii) acciones delictivas o irregulares por parte de terceros que no puedan evitarse por estar fuera de los límites de la previsibilidad técnica cuando ocurran.
+El Consumidor tendrá la posibilidad de emitir una Opinión durante los tres (3) meses
+siguientes a la invitación enviada por correo electrónico por Opiniones Verificadas y
+como resultado de un acto de consumo.
 
-8.2.5. Incapacidad del Usuario para utilizar los Servicios, cuando el motivo se derive de (i) terminación o cancelación de la Suscripción de Pago de las APPs; (ii) suspensión, por parte de VTEX, de la oferta de una APP específica en la Plataforma VTEX; (iii) solicitudes de servicios por los cuales VTEX no está obligada.
+Por otro lado, el Consumidor que haya dejado una Opinión, podrá modificarla durante
+un periodo de tres (3) meses después de escribirla. Una vez transcurrido este período
+de tres (3) meses, solo podrá solicitar la retirada de su Opinión.
 
-8.2.6. Cualquier inversión, gasto o compromiso asumido por el Usuario en relación con estos Términos o con el uso por parte del Usuario de las APPs y Servicios disponibles en los mismos.
+Por último, se podrá enviar una solicitud de Opinión al Consumidor mediante la
+presentación de una prueba de Compra a su nombre, con la condición de que este
+acto de consumo se haya realizado durante los últimos 12 (doce) meses.
+Así pues, la posibilidad de que un Consumidor emita una Opinión después de realizar
+un acto de consumo está limitada en el tiempo.
 
-8.2.7. Daños relacionados con cualquier acceso no autorizado a las APPs o la Plataforma VTEX, así como la modificación, exclusión, destrucción, daño, pérdida o falta de almacenamiento de cualquier contenido o datos del Usuario.
+Opiniones Verificadas no proporciona ninguna contrapartida a cambio de la emisión
+de una Opinión de cliente.
 
-8.3. El Usuario acepta expresamente que es el único responsable de los daños y riesgos que ocasione la APP instalada y su uso.
+5.2: Proceso de moderación
 
-8.4. El Usuario acepta que está contratando la Aplicación y sus servicios en el estado en el que se encuentran, siendo consciente de que no existen garantías en cuanto al suministro y prestación de estos servicios ante VTEX.
+5.2.1. Principios
 
-8.5. En caso de que VTEX sea responsable de los asuntos relacionados con el objeto de estos Términos, en ningún caso soportará indemnizaciones superiores a R$ 10.000,00 (diez mil reales).
+La Moderación es un proceso previo a la publicación de una Opinión que tiene la
+finalidad de garantizar que el contenido recopilado es conforme al derecho francés y
+a una certificación francesa a la que Opiniones Verificadas se somete
+voluntariamente, así como a las Condiciones generales de uso de Opiniones
+Verificadas.
 
-### 9. CONFIDENCIALIDAD
+Opiniones Verificadas se compromete a respetar el conjunto de estas disposiciones
+con el fin de preservar la fiabilidad de las Opiniones de clientes publicadas.
 
-9.1. Una vez aceptados los presentes Términos, el Usuario tendrá acceso a la información sobre la APP en sus aspectos funcionales, operativos, estratégicos, conceptuales, visuales e innovadores (“Información Confidencial”).
+Así, durante el proceso de Moderación, Opiniones Verificadas publicará o rechazará
+Opiniones cuando sea justificable.
 
-9.2. El Usuario se compromete a evitar la divulgación, publicación, replicación o intercambio de datos, pantallas, códigos, lógicas y recursos confidenciales de la APP, así como a no copiar y reproducir de ninguna forma, ni almacenar la Información Confidencial de ninguna forma.
+El rechazo de una Opinión resulta necesariamente de una acción manual de los
+moderadores de Opiniones Verificadas tras la denuncia de la Opinión en cuestión.
 
-9.2.1. Toda la Información Confidencial que se ofrezca al Usuario y a los respectivos empleados, o colaboradores, en forma escrita (incluyendo registros electrónicos) o verbalmente, será tratada bajo la más estricta confidencialidad.
+Todas las personas que intervienen y los actos vinculados a la Moderación están
+identificados y son rastreables.
 
-9.3. El Usuario se compromete a mantener la Información Confidencial en forma confidencial, utilizando el mismo nivel de cuidado y discreción para evitar la divulgación, publicación o difusión de dicha Información Confidencial a cualquier tercero que el nivel que suministre a su propia información similar que no desee que sea divulgada, publicada o difundida.
+El servicio de Moderación propuesto por Opiniones Verificadas dispone de un modelo
+estándar incluido en toda suscripción a la Solución por Opiniones Verificadas.
+Además, Opiniones Verificadas propone igualmente un modelo personalizado
+complementario a la versión estándar, que es opcional.
 
-9.4. Si el Usuario tiene la obligación legal de divulgar cualquier Información Confidencial, notificará de inmediato dicha obligación. Además, el Usuario solo revelará la parte de la Información Confidencial que sea legalmente requerida, y hará lo mejor posible para utilizar todos los procedimientos disponibles para garantizar que la Información Confidencial así divulgada permanezca confidencial.
+Se aplica el mismo plazo de Moderación a todas las Opiniones, tanto si son positivas
+como si son negativas.
 
-9.4.1. Las obligaciones anteriores no se aplicarán a ninguna Información Confidencial que, (1) antes de su recibimiento por parte del Usuario se haya hecho pública o haya llegado al poder del Usuario a través de una tercera fuente, o (2) después de su recibimiento por parte del Usuario, se haya hecho pública por cualquier medio que no sea el resultado de un incumplimiento de su obligación aquí establecida, o (3) haya sido adquirida legalmente por el Usuario sin la obligación de secreto de un tercero que no tiene la obligación de mantener la confidencialidad de la Información Confidencial, o (4) haya sido desarrollada independientemente por el Usuario.
+5.2.2. Funciones y medios de los moderadores
 
-### 10. PROPIEDAD INTELECTUAL
 
-10.1. La propiedad y los derechos de propiedad sobre la APP y los Servicios disponibles en la misma son y seguirán siendo el título y la propiedad del Desarrollador y el Proveedor de la Aplicación, y según los Términos de Uso de la APP, y solo se autoriza el uso de la APP y los Servicios por parte del Usuario. El Usuario no puede modificar ni eliminar ninguna identificación de marca, ni su nombre comercial, de los lugares donde aparece en la APP o en la Plataforma VTEX. Ninguna disposición contenida en este documento podrá otorgar, o se considerará habiendo otorgado, al Usuario ningún derecho sobre la marca VTEX y su denominación comercial.
+La Moderación se lleva a cabo mediante herramientas informáticas y/o personas
+humanas que generalmente se designan como moderadores.
 
-10.3. El Usuario no puede impugnar, asesorar o cooperar con terceros para impugnar la marca comercial o el nombre comercial de VTEX o su registro, ni el Usuario puede buscar registrar ninguna marca comercial o nombre comercial que pueda causar confusión con la marca comercial o nombre comercial de VTEX.
+Las capacidades requeridas y los medios necesarios de la persona que ocupa la
+función de moderador son:
 
-10.4. El acceso proporcionado al Usuario no implica autorización alguna para reproducir los derechos de autor y propiedad intelectual de propiedad de VTEX.
+- Dominar perfectamente el idioma en el que está redactada la Opinión. Este dominio
+  debe haberse validado objetivamente antes de la incorporación y debe ser equivalente
+  a un nivel «Maestría» del Marco Común Europeo de Referencia para las lenguas (nivel
+  C2 del MCER).
+    - Acceder a la totalidad del contenido de la Opinión del consumidor que ha sido
+      recopilada.
+    - Acceder a los elementos relativos a la identidad del redactor de la Opinión
+      para poder ponerse en contacto con él/ella, si es necesario.
+    - Acceder a toda la información relacionada con el historial de presentación de
+      Opiniones (cantidad de presentaciones de la misma Opinión después del
+      rechazo inicial).
+    - Acceder al histórico de la información sobre el redactor de la Opinión (número
+      de Opiniones publicadas y tema de las Opiniones previas).
+    - Poder confiar, de manera rastreable, la Moderación de una Opinión del
+      consumidor a otro moderador.
 
-### 11. CANCELACIÓN DE SUSCRIPCIÓN
+5.2.3 Modération estándar
 
-11.1. El Proveedor de la Aplicación, a su entera discreción, puede, sin perjuicio de otras medidas, suspender el acceso del Usuario y eliminar cualquier y/o todo el contenido creado por el Usuario a través de la APP, en cualquier momento en caso de violación de estos Términos o de los Términos de Uso de la APP, sin derecho a multa o indemnización alguna a favor del Usuario.
+El proceso de Moderación se divide en dos etapas: una Moderación automática
+seguida de una Moderación manual.
 
-### 12. DISPOSICIONES GENERALES
+En la primera etapa, denominada Moderación automática, algunas Opiniones se filtran
+y se colocan en Moderación dentro del Back Office del Cliente. Se trata de los casos
+siguientes:
 
-12.1. VTEX se reserva el derecho de descontinuar, cambiar o agregar funciones en APPs en la VTEX App Store, en cualquier momento y a su entera discreción.
+- La nota de la Opinión es igual o inferior a 2 (límite modificable en el Back
+  office del Cliente).
+- La Opinión contiene datos de carácter personal identificables por el sistema.
+- La Opinión contiene insultos o lenguaje soez.
+- La Opinión contiene cinco caracteres idénticos.
 
-12.2. VTEX se reserva además el derecho de modificar estos Términos en cualquier momento. Dichos cambios estarán disponibles en el sitio web de VTEX y se incorporarán automáticamente a estos Términos.
+Estas Opiniones colocadas de este modo en Moderación dentro de su Back Office
+permiten al Cliente identificar y responder fácilmente a las Opiniones potencialmente
+problemáticas.
 
-12.3. Si se omiten las disposiciones de estos Términos, se aplicarán las disposiciones del _Master Services Agreement_.
+En paralelo, en el transcurso de la Moderación automática, algunas Opiniones se
 
-12.4. Las Partes establecen que estos Términos se regirán e interpretarán de acuerdo con las leyes indicadas en el _Master Services Agreement_ firmado entre el Usuario y VTEX, y todas las disputas que surjan de estos Términos se resolverán de acuerdo con el método de resolución de conflictos indicado en el respectivo _Master Services Agreement_.
 
-12.5. La tolerancia en caso de incumplimiento o demora en el cumplimiento de las obligaciones estipuladas en estos Términos no constituirá novación ni afectará dichos derechos, que podrán ejercerse en cualquier momento, ni implicará un cambio en las condiciones pactadas en estos Términos.
+denuncian a los moderadores de Opiniones Verificadas para que las examinen
+cuando:
+
+- La Opinión contiene datos de carácter personal identificables por el sistema.
+- La Opinión contiene insultos o lenguaje soez.
+  En el resto de casos, corresponderá al Cliente denunciar la Opinión que
+  considere problemática a los moderadores de Opiniones Verificadas en la
+  etapa siguiente.
+
+Tras la Moderación automática, se lleva a cabo una Moderación manual:
+
+- Por un lado, como resultado de la acción de los Clientes, que responden a
+  los Consumidores y hacen una denuncia (a los moderadores de Opiniones
+  Verificadas) de las Opiniones consideradas problemáticas.
+- Por otro lado, por la acción de los moderadores de Opiniones Verificadas
+  tras la denuncia de una Opinión efectuada por los Clientes o por el sistema
+  mediante la Moderación automática.
+
+De este modo, tras examinar las Opiniones, los moderadores de Opiniones
+Verificadas deciden la publicación o no de las Opiniones en Moderación.
+
+Este sistema de Moderación automática y humana permite evitar la publicación de
+Opiniones que no respeten la legislación francesa y una certificación francesa a la cual
+Opiniones Verificadas se ha sometido voluntariamente, así como las Condiciones
+generales de uso de Opiniones Verificadas.
+
+La Moderación estándar se realiza de manera predeterminada «a priori», es decir,
+antes de la publicación de las Opiniones. Sin embargo, la parte manual está disponible
+en cualquier momento desde el Back Office del Cliente y, por lo tanto, puede hacerse
+«a posteriori» si es preciso. En este caso, la Opinión se procesa después de su
+publicación.
+
+Véase el artículo 5. 2 .5 sobre los plazos de Moderación de las Opiniones.
+
+5.2.4. Moderación opcional
+
+En el ámbito de la opción de Moderación, establecida bajo presupuesto, Opiniones
+Verificadas propone una Moderación a medida que permite al Cliente delegar la
+Moderación manual que le corresponde cuando la Moderación es estándar.
+
+Esta opción incluye la revisión de las Opiniones recogidas por los moderadores de
+Opiniones Verificadas.
+
+El Cliente deberá estructurar con precisión sus necesidades y peticiones en un pliego
+de condiciones. De este modo, podrá:
+
+- Definir, si lo desea, una revisión de todas las Opiniones o solo las
+  correspondientes a una nota que él mismo definirá.
+
+
+- Configurar, si lo desea, respuestas predeterminadas que habrá
+  proporcionado en función del tipo de Opinión y de la nota.
+- Configurar, si lo desea, los casos de rechazo por los que los moderadores
+  pueden actuar con autonomía sin una validación previa por su parte,
+  respetando los motivos de rechazo enumerados en el artículo 5. 2 .6.
+- Construir, si lo desea, una categorización de las Opiniones a través de un
+  sistema de atribución de «Tags» propio de cada Opinión (ejemplo: entrega,
+  pago, servicio al cliente...).
+
+5.2.5 Plazo de Moderación de la Opinión del consumidor
+
+Opiniones Verificadas se compromete a respetar el mismo plazo de Moderación para
+todas las Opiniones, positivas o negativas.
+
+Esto se fijará automáticamente en siete (7) días a partir de la fecha de presentación
+de la Opinion.
+
+Se especifica que existen otros plazos de moderación que pueden oscilar entre
+catorce (14) y veintiocho (28) días. En circunstancias excepcionales, es posible
+considerar plazos excepcionales. Estos plazos son posibles a petición expresa del
+cliente a su gestor de cuentas y mediante documentos de apoyo. Por ejemplo, se
+puede conceder un plazo de moderación excepcional en caso de que la empresa del
+cliente se traslade.
+
+5.2.6. Rechazo de la Opinión del cliente y motivo de rechazo
+
+Opiniones Verificadas se compromete a informar sistemáticamente al Consumidor del
+rechazo de una Opinión, así como el motivo de dicho rechazo.
+
+Opiniones Verificadas se compromete asimismo a dar al Consumidor la posibilidad de
+emitir una Opinión nueva tras la eliminación de su primera Opinión durante el proceso
+de Moderación; con un límite de tres (3) Opiniones como máximo.
+
+Opiniones Verificadas no está obligada a precisar los motivos del rechazo de una
+Opinión que considere que está destinada a construir artificialmente o a falsear la
+evaluación del producto o servicio.
+
+Motivos de rechazo de las Opiniones de Marca de los Consumidores
+
+- La opinión recibida esta considerada como difamación.
+- La nota no corresponde al comentario.
+- La opinión es relativa a un Producto/servicio y no a la experiencia de
+  Compra en la Página.
+- El contenido del texto incluye caracteres aleatorios o está mal escrito hasta
+  el punto de ser incomprensible.
+- No se describen los elementos de descripción de la experiencia de
+  consumición.
+- La opinión se ha identificado como destinada a bajar la valoración de un
+
+
+```
+producto o de una empresa.
+```
+- El contenido de la Opinión no está relacionado con el tema valorado.
+- El contenido del texto incluye datos personales o cualquier otra información
+  que pueda conducir a un robo de identidad: El nombre o el apellido de
+  personas que no son figuras públicas, un número de teléfono, una dirección
+  física o dirección de correo electrónico, un número de tarjeta de crédito, de
+  seguridad social, de cuenta bancaria u otra información que podría dar lugar a
+  un robo de identidad.
+- El contenido del texto incita a la Compra en un competidor.
+- El contenido del texto indica que el usuario no ha realizado una experiencia
+  de consumición.
+- El administrador de Opiniones cree que su responsabilidad civil o penal
+  puede estar comprometida.
+- El contenido incluye insultos o blasfemias.
+- Las características Opinión contienen elementos concretos de conflicto de
+  intereses.
+- Un usuario realiza un comentario inapropiado sobre otro contenido o su
+  autor.
+- El contenido del texto es claramente spam o menciona páginas web o url,
+  incluidas las del cliente o del fabricante.
+- El contenido del texto incluye un llamamiento una acción judicial.
+- El servicio al cliente ha intervenido para resolver el problema, y el
+  Consumidor desea actualizar su Opinión.
+- El Consumidor ha contactado con la sociedad calificada para modificar o
+  eliminar su Opinión.
+- El Consumidor se ha puesto en contacto con el administrador de opiniones
+  para eliminar o modificar su Opinión.
+- El administrador de Opiniones cree que su responsabilidad civil o penal
+  puede estar comprometida.
+
+Motivos de rechazo de las Opiniones de Productos de los Consumidores
+
+- La opinión recibida esta considerada como difamación.
+- La nota no corresponde al comentario.
+- La Opinión presentada está relacionada con la experiencia de Compra
+  (servicio al cliente, entrega o página web) y no con el producto valorado.
+- El contenido del texto incluye caracteres aleatorios o está mal escrito hasta
+  el punto de ser incomprensible.
+- No se facilitan los elementos de descripción de las características del
+  Producto.
+- El contenido no está relacionado con el Producto valorado.
+- El contenido del texto incluye datos personales o cualquier otra información
+  que pueda conducir a un robo de identidad (el nombre o el apellido de las
+  personas que no son figuras públicas, un número de teléfono, una dirección
+  física precisa o dirección de correo electrónico, un número de tarjeta de
+  crédito, de seguridad social, de cuenta bancaria u otra información que
+  pudiera dar lugar a un robo de identidad).
+- El contenido del texto incita a la Compra en un competidor.
+
+
+- El contenido del texto indica que el usuario aún no ha probado el Producto.
+- El contenido incluye insultos o blasfemias.
+- La Opinión contiene elementos concretos de conflicto de intereses.
+- El usuario realiza un comentario inapropiado sobre otro contenido o su autor.
+- El contenido del texto es claramente spam o menciona páginas web o url,
+  incluidas las del cliente o del fabricante.
+- El contenido del texto incluye un llamamiento una acción judicial.
+- El servicio al cliente ha intervenido para resolver el problema, y el
+  Consumidor desea actualizar su Opinión.
+- El Consumidor ha contactado con la sociedad calificada para modificar o
+  eliminar su Opinión.
+- El Consumidor se ha puesto en contacto con el administrador de opiniones
+  para eliminar o modificar su Opinión.
+- El administrador de Opiniones cree que su responsabilidad civil o penal
+  puede estar comprometida.
+
+5.2.7. Edición y modificación
+
+Opiniones Verificadas se compromete a no modificar ni eliminar el contenido de una
+Opinión de cliente. Por lo tanto, Opiniones Verificadas no puede:
+
+- Corregir las faltas de ortografía que contenga una Opinión.
+- Cambiar el seudónimo de un miembro.
+- Ocultar una parte del texto de la Opinión.
+- Modificar la nota.
+
+En raras ocasiones, los nombres y números de teléfono facilitados en las Opiniones
+podrán reemplazarse por estrellas en las Opiniones con el fin de respetar la
+confidencialidad de los Datos.
+
+5.3: Publicación y restitución de Opiniones
+
+5.3.1. Restitución de las Opiniones de cliente
+
+Opiniones Verificadas muestra todas las Opiniones, ya sean positivas o negativas,
+siempre que no hayan sido rechazadas durante el proceso de Moderación. Por lo
+tanto, Opiniones Verificadas no realiza ninguna selección de las Opiniones publicadas.
+
+Opiniones Verificadas muestra las Opiniones en orden cronológico de más reciente a
+más antigua, en función de la fecha de presentación de la Opinión.
+
+Opiniones Verificadas restituye las Opiniones en su totalidad.
+
+Opiniones Verificadas muestra para cada Opinión, como mínimo, la siguiente
+información:
+
+
+- La fecha y la hora de presentación de la Opinión.
+- La fecha de la experiencia de consumición.
+- El nombre y la primera letra del apellido del autor.
+
+Asimismo, Opiniones Verificadas podrá mostrar la siguiente información:
+
+- El Producto comprado.
+- El lugar de Compra o lugar de la intervención.
+
+Opiniones Verificadas puede mostrar bajo cada Opinión el derecho de respuesta del
+representante del Producto o servicio evaluado.
+
+Opiniones Verificadas no agrega ninguna nota ni pondera ninguna nota. Opiniones
+Verificadas muestra, pues, de forma transparente la nota media de cada uno de sus
+Comerciantes asociados. La nota se obtiene mediante el siguiente cálculo: Nota media
+= (suma de las notas de las Opiniones publicadas / número total de Opiniones
+publicadas).
+
+Opiniones Verificadas restituye a los Internautas las Opiniones de clientes recopiladas
+durante un período de 1 año continuo. Las Opiniones de clientes, el número de
+Opiniones, así como la nota media se calculan para este mismo período y se publican
+desde la página de Testimonios.
+
+5.3.2. Notificación de una Opinión con contenido ilícito o inapropiado
+
+Opiniones Verificadas permite la notificación de una Opinión con contenido ilícito o
+inapropiado. Esta notificación puede llevarse a cabo mediante la dirección:
+moderacion@opiniones-verificadas.com o también desde la Página de Testimonios
+del Comerciante Asociado.
+
+5.3.3. Derecho de respuesta del Comerciante asociado
+
+Opiniones Verificadas concede al representante del producto o servicio evaluado, la
+posibilidad de responder en cualquier momento a una Opinión recibida a través de su
+Back Office de cliente. Entonces puede:
+
+- Agradecerle al Consumidor su contribución.
+- Dar elementos de respuesta a preguntas presentes en el comentario.
+- Dar su versión de los hechos (con la posibilidad de depositar documentos
+  adjuntos).
+- Indicar los posibles cambios introducidos en el Producto o servicio desde la
+  redacción de la Opinión.
+
+Las respuestas se publican debajo de las Opiniones pertinentes. El Consumidor
+recibirá un correo electrónico para estar informado de todos los mensajes
+relacionados con su Opinión enviado por el representante del Producto o servicio
+evaluado. El Consumidor podrá responder sin modificar su nota.
+
+
+Las diferentes réplicas serán visibles para los Internautas, a menos que el
+Comerciante proveedor haya ocultado las réplicas de la conversación desde su Back
+Office.
+
+Por su parte, el Comerciante asociado será informado de los mensajes dejados por
+los Consumidores sobre sus Productos y/o servicios.
+
+Este proceso ofrece al Comerciante asociado la posibilidad de solicitar explicaciones
+cuando una nota y/o comentario le parezcan injustificados. El Comerciante asociado
+también tiene derecho de réplica.
+
+Opiniones Verificadas no interferirá en ningún caso en la relación existente entre el
+Cliente y el Consumidor. Les corresponderá a los Comerciantes asociados gestionar
+cualquier dificultad sobrevenida con un Consumidor tras la recopilación de una
+Opinión por Opiniones Verificadas.
+
+5.3.4. Pérdida del derecho a presentar una Opinión para el autor de una Opinión declarada ilícita
+o inapropiada tras la Moderación
+
+En caso de identificación de un autor que ha presentado una o varias Opiniones
+reconocidas como ilícitas o inapropiadas después de la Moderación, Opiniones
+Verificadas dará por terminada la posibilidad de presentar una Opinión para este
+Consumidor y eliminará todas las Opiniones relacionadas con este último.
+
+5.3.5. Naturaleza jurídica de las Opiniones del cliente emitidas por el Consumidor
+
+Opiniones Verificadas se compromete a no conservar indefinidamente los Datos
+personales de los Consumidores que emitan una Opinión de cliente a través de su
+solución.
+
+A tal fin, Opiniones Verificadas anonimiza las Opiniones de cliente dieciocho (18)
+meses después de su emisión. Al aceptar las presentes Condiciones generales de
+uso, el Consumidor acepta esta medida orientada a proteger sus Datos personales.
+
+Por lo tanto, el Consumidor reconoce que, como tal, cuando emite una Opinión de
+cliente, su única intención es describir fielmente una experiencia de consumición que
+ha vivido. De esta forma, el Consumidor que emite su Opinión a través de la solución
+Opiniones Verificadas no tiene ninguna intención de crear una obra intelectual,
+susceptible de ser protegida por derechos de autor. El Consumidor es consciente de
+que el derecho moral del autor no podría aplicarse porque consiente, para su propio
+beneficio, la anonimización de sus Opiniones dieciocho (18) meses después de su
+emisión.
+
+La Opinión de cliente emitidas por el Consumidor se asemeja a un testimonio, siempre
+relativo a una experiencia de consumición vivida y corresponde a pura información
+para futuros Consumidores.
+
+
+De esta forma, Opiniones Verificadas y sus Comerciantes asociados pueden utilizar,
+reproducir, publicar, poner a disposición y traducir libremente el contenido de las
+Opiniones de cliente de cualquier parte del mundo y en cualquier medio de
+comunicación o soporte.
+
+De forma paralela, Opiniones Verificadas y sus Comerciantes asociados disponen del
+derecho a utilizar el seudónimo usado por el Consumidor en relación con el contenido
+de la Opinión de cliente durante dieciocho (18) meses.
+
+Finalmente, al aceptar las presentes Condiciones generales de uso, el Consumidor
+reconoce y acepta que las Opiniones que se publicarán no tienen carácter confidencial
+ni privado.
+
+5.3.6. Asociaciones comerciales
+
+Opiniones Verificadas se ha asociado con Google. Este permite principalmente
+mostrar automáticamente la evaluación del Comerciante asociado al lado del enlace
+URL de su Página Web, cuando este último lleva a cabo una Campaña de Adwords,
+siempre que haya obtenido una nota media y mínima de 3,5 sobre 5.
+
+De manera general, Opiniones Verificadas se reserva la posibilidad de concertar
+acuerdos con empresas comerciales, y sobre todo con Motores de búsqueda como
+Google o Bing, con el objetivo de mostrar las Opiniones de cliente o incluso indexar
+su Testimonio de Opiniones Verificadas. Las Opiniones siempre se comunicarán de
+forma anónima.
+
+El Consumidor queda expresamente informado de que únicamente los colaboradores
+deciden y controlan la inserción de la evaluación que incluye las estrellas y el número
+de Opiniones recogidas.
+
+Opiniones Verificadas no será responsable de las condiciones y los plazos relativos a
+la visualización de las Opiniones de clientes, y en particular en caso de defectos de
+visualización o de la mala visualización, ya que los colaboradores tienen sus propias
+normas de visualización.
+
+Opiniones Verificadas solo tiene la obligación de garantizar la correcta transmisión de
+las Opiniones, comentarios y notas recogidas por su Solución.
+
+### 6: Funcionamiento de la emisión de una Pregunta o una Respuesta
+
+Con el fin de establecer un diálogo entre los Consumidores y los Comerciantes
+Asociados, Opiniones Verificadas propone un módulo de «Preguntas / Respuestas».
+
+Al facilitar su identidad (nombre y apellido) o bien un seudónimo y, en todo caso, su
+dirección de correo electrónico, un Consumidor podrá plantear una pregunta sobre un
+producto o servicio o bien responder a una pregunta hecha.
+
+
+Esta pregunta pasa por una fase de verificación. Seguidamente, se muestra en la
+página y se envía un correo electrónico a las personas que hayan tenido una
+experiencia de consumo relativa al producto o servicio en cuestión en la página web
+del Comerciante Asociado.
+
+Los Consumidores ya sondeados para emitir una Opinión serán invitados por correo
+electrónico a responder a una pregunta que hecha a través del módulo «Preguntas /
+Respuestas». Si no desean responder, los Consumidores tendrán la posibilidad de
+anular la suscripción al sondeo mediante un enlace que se proporcionará en el correo
+electrónico de solicitud.
+
+Por otro lado, los Consumidores tienen la posibilidad de notificar una pregunta o una
+respuesta con contenido ilícito o inapropiado con el fin de mantener una conversación
+constructiva sobre las experiencias compartidas. La notificación se realiza desde la
+página donde se ha publicado dicha pregunta o respuesta. En tal caso, se invitará al
+Consumidor a indicar la razón de su notificación.
+
+Para obtener más información sobre el tratamiento de los datos de carácter personal
+que se efectúa en el marco de la utilización del módulo « Preguntas / Respuestas»,
+consulte la Política de confidencialidad de Opiniones Verificadas.
+
+### 7: Tratamiento de los Datos de carácter personal
+
+La empresa Opiniones Verificadas siempre se ha preocupado especialmente por los
+problemas relacionados con la confidencialidad y la protección de los Datos de
+carácter personal de los Consumidores y de sus Clientes.
+
+Opiniones Verificadas actúa como tercero de confianza para, por una parte, recoger y
+difundir Opiniones de clientes relativas a una experiencia de consumo y, por otra parte,
+garantizar la conformidad del contenido recogido con la legislación francesa y una
+norma francesa que Opiniones Verificadas se compromete a respetar para preservar
+la fiabilidad de las Opiniones de clientes publicadas.
+
+Esta certificación similar a otras certificaciones concedidas por otros organismos,
+dentro y fuera de la Unión Europea, es garantía de calidad reconocida
+internacionalmente a causa del procesamiento así organizado.
+
+Teniendo en cuenta la aplicación desde hace varios años de procesos imparciales y
+totalmente rastreables, Opiniones Verificadas garantiza el mejor nivel de protección
+de los Datos personales conforme a las normativas europeas y francesas aplicables
+a la protección de dichos datos.
+
+El Reglamento general de protección de datos de carácter personal, se aplica de forma
+diferente en los territorios de los distintos Estados miembros de la Unión Europea,
+siempre respetando una base común de la normativa.
+
+
+La legislación francesa, que exige un grado de recopilación y de tratamiento muy
+estricto y elevado de los Datos personales, ha utilizado el margen de apreciación
+permitido a los Estados miembros.
+
+A partir del 25 de mayo de 2018 entró en vigor el nuevo Reglamento General de
+Protección de Datos (Reglamento (UE) 2016/679 del Parlamente Europeo y del
+Consejo del 27 de abril de 2016) para entregar a los residentes europeos el control
+sobre sus datos personales.
+
+Los Consumidores se benefician especialmente de los nuevos derechos y pueden
+ejercerlos enviando un correo electrónico a la dirección compliance@opiniones-
+verificadas.com.
+
+Para obtener más información, les invitamos a consultar nuestra Política de
+confidencialidad.
+
+### 8: Propiedad intelectual
+
+Todos los Derechos de propiedad intelectual respecto a la estructura y el contenido
+de la Página web [http://www.opiniones-verificadas.com,](http://www.opiniones-verificadas.com,) como imágenes, sonidos, vídeos,
+fotografías, logotipos, marcas, elementos gráficos, de texto, visuales, herramientas,
+programas, documentos, datos, etc., son propiedad exclusiva de la empresa NET
+REVIEWS.
+
+Todos esos derechos se encuentran a disposición de los usuarios de la Página web
+[http://www.opiniones-verificadas.com](http://www.opiniones-verificadas.com) de manera gratuita, pero solo en el marco de un uso
+normal de la Página web conforme a las prácticas y usos relativos a Internet.
+
+A cada usuario se le prohíbe copiar, modificar, reproducir, publicar, crear una obra
+derivada o utilizar los Derechos de propiedad intelectual descritos más arriba de
+cualquier manera sin la autorización expresa y por escrito de la Empresa NET
+REVIEWS, ya sea un uso con fines comerciales o no.
+
+Una utilización no conforme de esos Derechos provocará la violación de los Derechos
+de autor y constituirá un delito de piratería. En tal caso, será imputable al usuario tanto
+responsabilidad civil como penal.
+
+### 9: Legislación aplicable y tribunal competente
+
+Sin perjuicio de las disposiciones nacionales que sean más favorables al Consumidor,
+las presentes Condiciones generales de uso estarán sometidas a la legislación
+francesa.
+
+
+Toda controversia que surja respecto a la interpretación, ejecución o validez del
+presente contrato será sometida a la competencia exclusiva de los tribunales del lugar
+de residencia del demandado.
+
+Si el demandado es NET REVIEWS, solo serán competentes los tribunales de
+Marsella.
