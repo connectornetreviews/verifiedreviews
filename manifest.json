@@ -1,9 +1,9 @@
 {
   "vendor": "verifiedreviews",
   "name": "netreviews",
-  "version": "1.0.5",
-  "title": "Netreviews Module",
-  "description": "Netreviews VTEX module",
+  "version": "1.0.6",
+  "title": "Netreviews Connector",
+  "description": "Netreviews VTEX connector",
   "defaultLocale": "en-US",
   "builders": {
     "messages": "1.x",
@@ -32,7 +32,7 @@
     }
   ],
   "settingsSchema": {
-    "title": "Netreviews Module Configuration",
+    "title": "Netreviews Connector Configuration",
     "type": "object",
     "properties": {
       "idWebsite": {

@@ -12,7 +12,7 @@ Classic store-theme :
 
 4 - Under "store.product", "children", insert the "netreviews-reviews" bloc where you wish to display the reviews
 
-5 - Add your API KEY, SECRET KEY and set the language of the App in the APP > My apps > Netreviews Module > Settings
+5 - Add your API KEY, SECRET KEY and set the language of the App in the APP > My apps > Netreviews Connector > Settings
 
 6 - If you have the Reviews and Ratings app installed you have to unsitall it in APP > My apps
 
