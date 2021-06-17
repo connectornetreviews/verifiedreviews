@@ -49,8 +49,8 @@ const Reviews: FunctionComponent = () => {
     }, [data]);
 
     function moreReviews(increment: number) {
-        setLimit((limit) => {
-            return limit + increment
+        setLimit((init) => {
+            return init + increment
         });
     }
 

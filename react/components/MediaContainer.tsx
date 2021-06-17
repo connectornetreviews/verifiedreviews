@@ -1,4 +1,4 @@
-import React, {FunctionComponent, useEffect, useState} from "react";
+import React, {FunctionComponent, useState} from "react";
 import styles from "../styles.css";
 import Carousel from "./Carousel";
 
@@ -16,8 +16,8 @@ export interface Media {
 const MediaContainer: FunctionComponent<MediaContainer> = ({medias}) => {
     const [{display, elemUrl}, setState] = useState({display: false, elemUrl: ''});
 
-    const toggleState = (elemUrl: string) => {
-        setState({display: !display, elemUrl: elemUrl})
+    const toggleState = (elementUrl: string) => {
+        setState({display: !display, elemUrl: elementUrl})
     }
 
     const backgroundImage = (url: string): any => {

@@ -1,7 +1,6 @@
 import React, {FunctionComponent} from "react";
 import styles from "../styles.css";
 import {FormattedMessage} from "react-intl";
-// import {helpfulMethods} from 'netreviews.helpfulvote';
 
 
 interface HelpfulProps {

@@ -12,7 +12,13 @@ interface Moderation {
     isVisible: boolean
 }
 
-const ModerationBlock: FunctionComponent<Moderation> = ({commentDate, commentOrigin, comment, commentUsername, isVisible}) => {
+const ModerationBlock: FunctionComponent<Moderation> = ({
+                                                            commentDate,
+                                                            commentOrigin,
+                                                            comment,
+                                                            commentUsername,
+                                                            isVisible
+                                                        }) => {
     function getOrigin(param: number) {
         const msg = defineMessage({
             id: 'store/netreviews.moderator',
@@ -20,12 +26,12 @@ const ModerationBlock: FunctionComponent<Moderation> = ({commentDate, commentOri
             description: 'header',
         })
 
-        let origin = useIntl().formatMessage(msg);
-
-        if (param == 2) {
+        if (param === 2) {
             origin = document.domain;
-        } else {
+        } else if (param === 3) {
             origin = commentUsername;
+        } else {
+            origin = useIntl().formatMessage(msg);
         }
         return origin;
     }

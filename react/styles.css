@@ -26,10 +26,6 @@
     overflow: hidden;
 }
 
-.inline_stars {
-
-}
-
 .left_block {
     flex: 0 1 21%;
     text-align: center;
@@ -224,10 +220,6 @@
     margin-bottom: 15px;
 }
 
-.sidegroup_1 {
-
-}
-
 .stats_block {
     display: flex;
     flex-direction: column;
@@ -320,9 +312,6 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-}
-
-#netreviews_media_image {
 }
 
 .media_carousel {

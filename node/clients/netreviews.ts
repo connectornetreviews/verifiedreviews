@@ -32,7 +32,7 @@ class Netreviews extends ExternalClient {
         const settings = await clients.apps.getAppSettings(appId);
         const {idWebsite, locale} = settings;
 
-        if (this.idWebsite == '') {
+        if (this.idWebsite === '') {
             this.idWebsite = idWebsite.trim();
             this.plateforme = locale.split('-')[1].toLowerCase();
         }

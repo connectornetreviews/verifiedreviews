@@ -14,11 +14,11 @@ import useProduct from "vtex.product-context/useProduct";
 const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRating, filter, setFilterClicked}) => {
     const [showInfo, setshowInfo] = useState(false);
     const toggleInfo = () => setshowInfo(!showInfo);
-
     const filterClicked = !!filter.length;
-
     const {product} = useProduct() ?? {};
     const {productId} = product ?? {};
+
+    let rating: any;
 
     if (!productId) {
         return null;
@@ -45,9 +45,11 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
     }
 
     if (!loading && !error && data.rating !== null) {
-        const rating = data.rating.length ? data.rating[0] : null;
+        rating = data.rating.length ? data.rating[0] : null;
+    }
 
-        return (
+    return (!loading && !error && data.rating !== null) ?
+        (
             <div className={`${styles.left_block}`}>
 
                 <div className={`${styles.netreviews_logo}`}>
@@ -131,9 +133,7 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
 
                 {loading ? <div className={`${styles.loader}`}/> : ''}
             </div>
-        )
-    }
-    return <div/>
+        ) : <div/>
 }
 
 export default ReviewsSideInfo;

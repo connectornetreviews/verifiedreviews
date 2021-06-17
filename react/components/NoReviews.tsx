@@ -2,10 +2,7 @@ import React, {FunctionComponent} from "react";
 import {FormattedMessage} from "react-intl";
 import styles from "../styles.css";
 
-interface NoReviewProps {
-}
-
-const NoReview: FunctionComponent<NoReviewProps> = ({}) => {
+const NoReview: FunctionComponent = () => {
 
     return (
         <div className={`${styles.no_review}`}>

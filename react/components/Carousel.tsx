@@ -1,4 +1,4 @@
-import React, {FunctionComponent, MouseEventHandler, useEffect} from "react";
+import React, {FunctionComponent} from "react";
 import styles from "../styles.css";
 import {IoClose} from "react-icons/all";
 
