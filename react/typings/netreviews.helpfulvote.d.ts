@@ -1,5 +1,3 @@
-declare module 'netreviews.helpfulvote' {
-    export const helpfulMethods: any
+declare module "netreviews.helpfulvote" {
+  export const helpfulMethods: any;
 }
-
-
