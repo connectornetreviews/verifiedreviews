@@ -1,4 +1,4 @@
-# Condições Gerais de Prestação de serviços
+# Termos e Condições
 
 I: Âmbito das Condições Gerais de Prestação de serviços
 
