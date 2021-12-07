@@ -1,9 +1,9 @@
 {
   "vendor": "verifiedreviews",
   "name": "netreviews",
-  "version": "1.0.8",
-  "title": "Netreviews Module",
-  "description": "Netreviews VTEX module",
+  "version": "1.0.10",
+  "title": "Netreviews Connector",
+  "description": "Netreviews VTEX connector",
   "defaultLocale": "en-US",
   "builders": {
     "messages": "1.x",

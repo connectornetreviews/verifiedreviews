@@ -1,20 +1,19 @@
 {
   "name": "Verified Reviews",
-    "headline": "Integrate Verified Reviews software with your VTEX ecommerce store.",
-  "overview": "Specializing in the multichannel (online/offline) collection of customer reviews, Verified Reviews allows the measurement and analysis of customer satisfaction. Our multi-tool platform offers both management and monitoring of all your content, as well as handling its diffusion. Verified Reviews is present in more than 20 countries and supports more than 20,000 stores such as Aubade and Lapeyre.",
+  "headline": "Integrate Verified Reviews software with your VTEX ecommerce store.",
+  "overview": "Control your visibility and improve your conversions with our 360° solution to collect, manage and display genuine customer reviews. Our platform, Verified Reviews, part of the Skeepers Group, allows you to measure and analyze customer satisfaction thanks to multichannel (online / offline) review collection.\n\nVerified Reviews has been used by more than 6.000 SMBs and enterprises like Michelin, Lacoste, Kusmitea, Fnac, Cash for Cars and more.\n\nWho better than your clients to help your company to grow?",
   "features": [
-    "Collect product, brand and store reviews",
-    "Enrich product pages with reviews and star ratings",
-    "Launch user generated video reviews",
-    "Monitor and improve the customer experience",
-    "Create a customer centric approach",
-    "Automation of brand and consumer relations",
-    "Personalization and loyalty features"
+    "Collect product, seller, and store reviews",
+    "Enhance your product pages thanks to comments and star ratings",
+    "Show video reviews recorded by your own customers",
+    "Monitor and improve your customer experience",
+    "Become customer-centric",
+    "Automate your company-customer relationship"
   ],
-    "additionalInformation": "To use this service, you must have an active account on the Verified Reviews platform.",
+  "additionalInformation": "*To use our service, you will need to create your account on Verified Reviews\n\nPlease contact us to learn more about other solutions provided by Skeepers, and create added value for your customers. : https://www.skeepers.io/en/",
   "video": "https://www.youtube.com/watch?v=QOUFHSBjQpg",
   "websiteURL": "https://www.netreviews.com/en",
   "support": {
-      "email": "support@verified-reviews.com"
-    }
+    "email": "support@verified-reviews.com"
+  }
 }
