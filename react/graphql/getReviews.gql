@@ -1,0 +1,41 @@
+query GetReviews($product: String, $idWebsite: String, $plateforme: String, $offset: Int, $limit: Int, $filter: [Int], $order: String) {
+    reviews(product: $product, idWebsite: $idWebsite, platform: $plateforme, offset: $offset, limit: $limit, filter: $filter, order: $order)  {
+        reviews {
+            rate
+            email
+            info1
+            info2
+            info3
+            info4
+            info5
+            info6
+            info7
+            info8
+            info9
+            info10
+            url_image_product
+            description
+            moderation {
+                comment_date
+                comment_origin
+                comment
+            }
+            medias
+            publish_date
+            count_helpful_yes
+            count_helpful_no
+            brand_name
+            sign_helpful
+            id_review
+            id_review_product
+            order_ref
+            id_product
+            review_date
+            review
+            lastname
+            firstname
+            order_date
+        },
+        stats
+    }
+}

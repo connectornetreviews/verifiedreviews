@@ -1,0 +1,6 @@
+node_modules/
+.idea
+react/yarn.lock
+node/yarn.lock
+yarn.lock
+.eslintrc
