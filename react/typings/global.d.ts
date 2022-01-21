@@ -24,6 +24,7 @@ export interface SideInfoProps {
   filterByRating: (rating: [number] | []) => void;
   filter: number[];
   setFilterClicked: (filter: boolean) => void;
+  locale: string;
 }
 
 export interface ReviewProps {

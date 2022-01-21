@@ -192,7 +192,7 @@
     position: absolute;
     border-radius: 3px;
     box-shadow: 0 1px 3px rgb(0 0 0 / 40%);
-    z-index: 11;
+    z-index: 1000;
     margin: 0;
     font-family: Nunito, Arial, Helvetica, sans-serif;
     font-size: 13px;
@@ -352,6 +352,7 @@
 .netreviews_discussion {
     margin-left: 15px;
     transition: all 0.3s ease-out;
+    box-sizing: content-box;
 }
 
 .netreviews_website_answer {
@@ -364,6 +365,7 @@
     font-size: 12px;
     border-left: #f2f2f2 solid 3px;
     height: auto;
+    box-sizing: content-box;
 }
 
 .netreviews_answer_title {

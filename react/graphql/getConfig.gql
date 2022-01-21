@@ -1,0 +1,6 @@
+query GetConfig {
+    config {
+        idWebsite
+        locale
+    }
+}
