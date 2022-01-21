@@ -20,21 +20,6 @@ const ModerationBlock: FunctionComponent<Moderation> = ({
                                                             isVisible
                                                         }) => {
     function getOrigin(param: number) {
-        /*const msg = defineMessage({
-            id: 'store/netreviews.moderator',
-            defaultMessage: 'single message',
-            description: 'header',
-        })
-
-        if (param == 1) {
-            origin = useIntl().formatMessage(msg);
-        } else if (param == 2) {
-            origin = document.domain;
-        } else if (param == 3) {
-            origin = commentUsername;
-        }
-        return origin;*/
-
         const messageOriginModerator = defineMessages({
             1: {
                 id: 'store/netreviews.moderator',

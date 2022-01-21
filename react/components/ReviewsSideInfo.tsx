@@ -1,4 +1,4 @@
-import React, {FunctionComponent, useEffect, useState} from "react";
+import React, {FunctionComponent, useState} from "react";
 import {SideInfoProps} from "../typings/global";
 import styles from "../styles.css";
 import {FaInfoCircle, FaUserAlt} from "react-icons/fa";

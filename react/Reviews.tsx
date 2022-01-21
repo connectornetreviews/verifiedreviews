@@ -46,7 +46,6 @@ const Reviews: FunctionComponent = () => {
             if (queryReviews.reviews.length) {
                 setReviews(queryReviews.reviews[0].reviews);
                 setStats(queryReviews.reviews[0].stats);
-                //setLocale(queryReviews.reviews.settings.locale);
             }
         }
     }, [queryReviews]);

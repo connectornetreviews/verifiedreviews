@@ -18,7 +18,7 @@ const ReviewsContainer: FunctionComponent<ReviewsContainerProps> = ({
   order,
   getMoreReviews,
   stats,
-  loading,
+  loading
 }) => {
   const total: number = getTotal(stats, filter);
   const reviewsNode = useRef(null);
