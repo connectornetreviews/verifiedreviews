@@ -2,6 +2,7 @@ import React, {CSSProperties, FunctionComponent, useEffect, useState} from "reac
 
 import {useQuery} from "react-apollo";
 import GetReviews from "./graphql/getReviews.gql";
+import GetConfig from "./graphql/getConfig.gql";
 import "@fontsource/nunito";
 import "@fontsource/nunito/600.css";
 import "@fontsource/nunito/700.css";
@@ -15,6 +16,7 @@ const Reviews: FunctionComponent = () => {
     const [selectedOrder, setOrder] = useState('date_desc');
     const [reviews, setReviews] = useState([]);
     const [stats, setStats] = useState([]);
+    const [locale, setLocale] = useState('');
     const initialLimit = 5;
     const [limit, setLimit] = useState(initialLimit);
     const [filterClicked, setFilterClicked] = useState(!!filter.length);
@@ -34,19 +36,20 @@ const Reviews: FunctionComponent = () => {
         order: selectedOrder
     }
 
-    const {data, loading, error} = useQuery(GetReviews, {
+    const {data: queryReviews, loading: queryReviewsLoading , error: queryReviewsError} = useQuery(GetReviews, {
         ssr: false,
         variables: variables
     });
 
     useEffect(() => {
-        if (!loading && !error && data.reviews !== null) {
-            if (data.reviews.length) {
-                setReviews(data.reviews[0].reviews);
-                setStats(data.reviews[0].stats)
+        if (!queryReviewsLoading && !queryReviewsError && queryReviews !== null && queryReviews.reviews !== null) {
+            if (queryReviews.reviews.length) {
+                setReviews(queryReviews.reviews[0].reviews);
+                setStats(queryReviews.reviews[0].stats);
+                //setLocale(queryReviews.reviews.settings.locale);
             }
         }
-    }, [data]);
+    }, [queryReviews]);
 
     function moreReviews(increment: number) {
         setLimit((init) => {
@@ -72,11 +75,21 @@ const Reviews: FunctionComponent = () => {
         left: 0
     }
 
-    return data ? (
+    const {data: queryConfig, loading: queryConfigLoading , error: queryConfigError} = useQuery(GetConfig, {
+        ssr: false
+    });
+
+    useEffect(() => {
+        if (!queryConfigLoading && !queryConfigError && queryConfig !== null) {
+            setLocale(queryConfig.config.locale);
+        }
+    }, [queryConfig]);
+
+    return queryReviews ? (
         <div className={`${styles.netreviews_review_rate_and_stars}`}>
             <div id="netreviews_block" style={style}/>
             <ReviewsSideInfo stats={stats} filterByRating={filterByRating} filter={filter}
-                             setFilterClicked={setFilterClicked}/>
+                             setFilterClicked={setFilterClicked} locale={locale}/>
             <ReviewsContainer reviews={reviews}
                               limit={{limit, initialLimit}}
                               filter={filter}
@@ -84,7 +97,7 @@ const Reviews: FunctionComponent = () => {
                               order={selectedOrder}
                               getMoreReviews={moreReviews}
                               stats={stats}
-                              loading={loading}
+                              loading={queryReviewsLoading}
             />
         </div>
     ) : <div/>;

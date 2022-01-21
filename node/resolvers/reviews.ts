@@ -33,5 +33,15 @@ export const queries = {
     } catch (error) {
       throw new TypeError(error);
     }
+  },
+  config: async (_: any, _args: any, ctx: Context, _infos: any) => {
+    const {
+      clients: { netreviews }
+    } = ctx;
+    try {
+      return await netreviews.getAccountInfo(ctx);
+    } catch (error) {
+      throw new TypeError(error);
+    }
   }
 };

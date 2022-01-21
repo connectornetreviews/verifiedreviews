@@ -27,6 +27,7 @@ declare global {
   type Context = ServiceContext<Clients>;
 }
 
+
 // Export a service that defines route handlers and client options.
 export default new Service({
   clients,

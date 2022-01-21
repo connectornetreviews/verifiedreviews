@@ -1,6 +1,6 @@
 import React, {FunctionComponent} from "react";
 import styles from "../styles.css";
-import {FormattedMessage, useIntl} from "react-intl";
+import {FormattedMessage, defineMessages, useIntl} from "react-intl";
 import nrDateFormat from "../utils/DateConverter"
 import {defineMessage} from "@formatjs/intl";
 
@@ -20,18 +20,37 @@ const ModerationBlock: FunctionComponent<Moderation> = ({
                                                             isVisible
                                                         }) => {
     function getOrigin(param: number) {
-        const msg = defineMessage({
+        /*const msg = defineMessage({
             id: 'store/netreviews.moderator',
             defaultMessage: 'single message',
             description: 'header',
         })
 
-        if (param === 2) {
-            origin = document.domain;
-        } else if (param === 3) {
-            origin = commentUsername;
-        } else {
+        if (param == 1) {
             origin = useIntl().formatMessage(msg);
+        } else if (param == 2) {
+            origin = document.domain;
+        } else if (param == 3) {
+            origin = commentUsername;
+        }
+        return origin;*/
+
+        const messageOriginModerator = defineMessages({
+            1: {
+                id: 'store/netreviews.moderator',
+            }
+        });
+
+        if (param == 1) {
+            return (
+                <div>
+                    <FormattedMessage id={messageOriginModerator[1].id} />
+                </div>
+            )
+        } else if (param == 2) {
+            origin = document.domain;
+        } else if (param == 3) {
+            origin = commentUsername;
         }
         return origin;
     }
@@ -42,8 +61,7 @@ const ModerationBlock: FunctionComponent<Moderation> = ({
             <div className={`${styles.netreviews_website_answer}`}>
                 <span className={`${styles.netreviews_answer_title}`}>
                     <FormattedMessage id="store/netreviews.moderation.answer-from"/>
-                    {getOrigin(commentOrigin)}
-                    &nbsp;
+                    <span> {getOrigin(commentOrigin)} </span>
                     <FormattedMessage id="store/netreviews.moderation.on"/>
                     &nbsp;
                     {nrDateFormat(commentDate.substr(0, 10))}
