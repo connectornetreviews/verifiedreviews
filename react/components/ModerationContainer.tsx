@@ -43,14 +43,16 @@ const ModerationContainerBlock: FunctionComponent<ModerationContainer> = ({
           />
         );
       })}
-      <button className={`${styles.show_chat}`} onClick={toggleChat}>
-        <FaComments className={`${styles.chat_icon}`} />
-        {isVisible ? (
-          <FormattedMessage id="store/netreviews.moderation.hide-chat" />
-        ) : (
-          <FormattedMessage id="store/netreviews.moderation.show-chat" />
-        )}
-      </button>
+      { chat.length > 1 ?
+          <button className={`${styles.show_chat}`} onClick={toggleChat}>
+            <FaComments className={`${styles.chat_icon}`} />
+            {isVisible ? (
+                <FormattedMessage id="store/netreviews.moderation.hide-chat" />
+            ) : (
+                <FormattedMessage id="store/netreviews.moderation.show-chat" />
+            )}
+          </button> : ''
+      }
     </Fragment>
   );
 };

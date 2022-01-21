@@ -1,7 +1,7 @@
 import {ExternalClient, InstanceOptions, IOContext} from '@vtex/api';
 import {Rating} from "../typings/rating";
 import {Reviews} from "../typings/review";
-
+import {Config} from "../typings/config";
 
 interface ReviewArgs {
     product: string,
@@ -26,15 +26,19 @@ class Netreviews extends ExternalClient {
     }
 
 
-    public async getAccountInfo(ctx: Context) {
+    public async getAccountInfo(ctx: Context): Promise<Config>{
         const {clients} = ctx;
         const appId = process.env.VTEX_APP_ID;
         const settings = await clients.apps.getAppSettings(appId);
         const {idWebsite, locale} = settings;
-
         if (this.idWebsite === '') {
             this.idWebsite = idWebsite.trim();
             this.plateforme = locale.split('-')[1].toLowerCase();
+        }
+
+        return {
+            "idWebsite": settings.idWebsite,
+            "locale": this.plateforme
         }
     }
 
