@@ -11,7 +11,7 @@ import {FormattedMessage} from "react-intl";
 import {TiDelete} from "react-icons/all";
 import useProduct from "vtex.product-context/useProduct";
 
-const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRating, filter, setFilterClicked}) => {
+const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRating, filter, setFilterClicked, locale}) => {
     const [showInfo, setshowInfo] = useState(false);
     const toggleInfo = () => setshowInfo(!showInfo);
     const filterClicked = !!filter.length;
@@ -34,6 +34,7 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
         }
     });
 
+
     const background = (percentage: any): any => {
         return {
             background: 'linear-gradient(to right, rgb(173, 173, 173) ' + percentage + '%, rgb(216, 216, 216) ' + percentage + '%)'
@@ -44,6 +45,10 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
         return selectedFilter.length && index + 1 === selectedFilter[0] ? {opacity: 1} : {opacity: 0.3};
     }
 
+    function setLocaleForLogoUrl(locale: string) {
+        return "https://cl.avis-verifies.com/fr/widget4/tagjs/netreviews-logo-" + locale + ".png";
+    }
+
     if (!loading && !error && data.rating !== null) {
         rating = data.rating.length ? data.rating[0] : null;
     }
@@ -51,15 +56,12 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
     return (!loading && !error && data.rating !== null) ?
         (
             <div className={`${styles.left_block}`}>
-
                 <div className={`${styles.netreviews_logo}`}>
-                    <img src="https://cl.avis-verifies.com/fr/widget4/tagjs/netreviews-logo-fr.png"
+                    <img src={setLocaleForLogoUrl(locale)}
                          alt="Logo Avis-Vérifies"/>
                 </div>
-
                 <div className={`${styles.stats_block}`}>
                     <div className={`${styles.sidegroup_1}`}>
-
                         <div className={`${styles.top_block}`}>
                             <div className={`${styles.sidegroup_2}`}>
                                 <div className={`${styles.rating_block}`}>
@@ -75,7 +77,7 @@ const ReviewsSideInfo: FunctionComponent<SideInfoProps> = ({stats, filterByRatin
                                 </div>
                             </div>
                             <div className={`${styles.bottom_margin}`}>
-                                <span className={`${styles.bold}`}> {recommandation}%</span>
+                                <span className={`${styles.bold}`}> {recommandation}% </span>
                                 <FormattedMessage id="store/netreviews.recommendation" values={{recommandation}}/>
                             </div>
                         </div>

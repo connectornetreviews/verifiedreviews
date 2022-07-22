@@ -18,12 +18,11 @@ const NetreviewsInfo: FunctionComponent<TState> = ({ onClick }) => {
       <ul>
         <li>
           <FormattedMessage id="store/netreviews.info.one" />
+          <span> </span>
           <a
             href="https://www.avis-verifies.com/index.php?page=mod_conditions_utilisation"
             target="_blank" rel="noreferrer"
-          >
-            CGU
-          </a>
+          >CGU</a>
           .
         </li>
         <li>
@@ -37,6 +36,7 @@ const NetreviewsInfo: FunctionComponent<TState> = ({ onClick }) => {
         </li>
         <li>
           <FormattedMessage id="store/netreviews.info.five" />
+          <span> </span>
           <a
             href="https://www.avis-verifies.com/index.php?page=mod_conditions_utilisation#Rejet_de_lavis_de_consommateur"
             target="_blank" rel="noreferrer"
