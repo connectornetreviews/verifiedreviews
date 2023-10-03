@@ -25,6 +25,7 @@ const ModerationBlock: FunctionComponent<Moderation> = ({
                 id: 'store/netreviews.moderator',
             }
         });
+        let moderationOrigin;
 
         if (param == 1) {
             return (
@@ -33,11 +34,11 @@ const ModerationBlock: FunctionComponent<Moderation> = ({
                 </div>
             )
         } else if (param == 2) {
-            origin = document.domain;
+            moderationOrigin = document.domain;
         } else if (param == 3) {
-            origin = commentUsername;
+            moderationOrigin = commentUsername;
         }
-        return origin;
+        return moderationOrigin;
     }
 
     return (
